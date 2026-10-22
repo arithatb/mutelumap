@@ -1,0 +1,10 @@
+{
+  "name": "Mutelu Map Thailand (TH / EN / ZH)",
+  "short_name": "Mutelu Map",
+  "description": "แผนที่พิกัดสายมูเตลูทั่วไทย & AI จัดทริปสายมู (รองรับ ไทย / English / 中文)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFDF8",
+  "theme_color": "#7F1D1D",
+  "orientation": "any"
+}
